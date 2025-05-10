@@ -8,7 +8,7 @@ const sendEmail = async (recipient, subject, message) => {
     secure: true, // true for 465
     auth: {
       user: "helpdeskbizzkonn@gmail.com",
-      pass: "mvnb hwpl napd gzew", // Use App Password here
+      pass: "dpxv nfag newx tldv", // Use App Password here
     },
   });
 
@@ -30,7 +30,7 @@ async function sendTicketEmail(to, ticketData) {
     secure: true, // true for 465
     auth: {
       user: "helpdeskbizzkonn@gmail.com",
-      pass: "mvnb hwpl napd gzew", // Use App Password here
+      pass: "dpxv nfag newx tldv", // Use App Password here
     },
   });
 
